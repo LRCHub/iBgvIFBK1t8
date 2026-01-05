@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "溶けない結晶",
+  "base_artist": "大神ミオ",
+  "createdAt": "2026-01-05T13:56:42.188002Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "溶けない結晶",
+      "artist": "大神ミオ",
+      "has_synced": false,
+      "path": "select/01_溶けない結晶_大神ミオ.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "溶けない結晶",
+      "artist": "大神ミオ",
+      "has_synced": false,
+      "path": "select/pl_01_溶けない結晶_大神ミオ.txt"
+    }
+  ]
+}
